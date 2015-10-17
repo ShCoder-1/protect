@@ -1,2 +1,2 @@
 # protect
-protect pages on modx evo 
+protect pages on modx evo and sub directories
